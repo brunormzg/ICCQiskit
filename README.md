@@ -4,5 +4,6 @@ Trabajo con Qiskit de mi curso de Introducción a la Computación Cuántica. En 
 - Protocolo de Teleportación
 - Algoritmo de Grover
 - Algoritmo de Deustch-Josza
+- Código de Shor para corrección de errores
 
 
